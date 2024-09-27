@@ -1,0 +1,11 @@
+c:\users\local0\documents\visual studio 2012\Projects\WFA_Vaccine\WFA_Vaccine\bin\Debug\WFA_Vaccine.exe.config
+c:\users\local0\documents\visual studio 2012\Projects\WFA_Vaccine\WFA_Vaccine\bin\Debug\WFA_Vaccine.exe
+c:\users\local0\documents\visual studio 2012\Projects\WFA_Vaccine\WFA_Vaccine\bin\Debug\WFA_Vaccine.pdb
+c:\users\local0\documents\visual studio 2012\Projects\WFA_Vaccine\WFA_Vaccine\obj\Debug\WFA_Vaccine.csprojResolveAssemblyReference.cache
+c:\users\local0\documents\visual studio 2012\Projects\WFA_Vaccine\WFA_Vaccine\obj\Debug\WFA_Vaccine.Form1.resources
+c:\users\local0\documents\visual studio 2012\Projects\WFA_Vaccine\WFA_Vaccine\obj\Debug\WFA_Vaccine.Properties.Resources.resources
+c:\users\local0\documents\visual studio 2012\Projects\WFA_Vaccine\WFA_Vaccine\obj\Debug\WFA_Vaccine.csproj.GenerateResource.Cache
+c:\users\local0\documents\visual studio 2012\Projects\WFA_Vaccine\WFA_Vaccine\obj\Debug\WFA_Vaccine.exe
+c:\users\local0\documents\visual studio 2012\Projects\WFA_Vaccine\WFA_Vaccine\obj\Debug\WFA_Vaccine.pdb
+c:\users\local0\documents\visual studio 2012\Projects\WFA_Vaccine\WFA_Vaccine\obj\Debug\WFA_Vaccine.Form2.resources
+c:\users\local0\documents\visual studio 2012\Projects\WFA_Vaccine\WFA_Vaccine\obj\Debug\WFA_Vaccine.Form3.resources

@@ -1,0 +1,9 @@
+c:\users\local0\documents\visual studio 2012\Projects\WFA4_19621609\WFA4_19621609\bin\Debug\WFA4_19621609.exe.config
+C:\Users\Local0\Documents\Visual Studio 2012\Projects\WFA4_19621609\WFA4_19621609\bin\Debug\WFA4_19621609.exe
+C:\Users\Local0\Documents\Visual Studio 2012\Projects\WFA4_19621609\WFA4_19621609\bin\Debug\WFA4_19621609.pdb
+C:\Users\Local0\Documents\Visual Studio 2012\Projects\WFA4_19621609\WFA4_19621609\obj\Debug\WFA4_19621609.csprojResolveAssemblyReference.cache
+C:\Users\Local0\Documents\Visual Studio 2012\Projects\WFA4_19621609\WFA4_19621609\obj\Debug\WFA4_19621609.Form1.resources
+C:\Users\Local0\Documents\Visual Studio 2012\Projects\WFA4_19621609\WFA4_19621609\obj\Debug\WFA4_19621609.Properties.Resources.resources
+C:\Users\Local0\Documents\Visual Studio 2012\Projects\WFA4_19621609\WFA4_19621609\obj\Debug\WFA4_19621609.csproj.GenerateResource.Cache
+C:\Users\Local0\Documents\Visual Studio 2012\Projects\WFA4_19621609\WFA4_19621609\obj\Debug\WFA4_19621609.exe
+C:\Users\Local0\Documents\Visual Studio 2012\Projects\WFA4_19621609\WFA4_19621609\obj\Debug\WFA4_19621609.pdb

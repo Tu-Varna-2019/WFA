@@ -1,0 +1,16 @@
+c:\users\local0\documents\visual studio 2012\Projects\KR2_WFA_Iliyan_Kostov_19621609\KR2_WFA_Iliyan_Kostov_19621609\bin\Debug\KR2_WFA_Iliyan_Kostov_19621609.exe.config
+c:\users\local0\documents\visual studio 2012\Projects\KR2_WFA_Iliyan_Kostov_19621609\KR2_WFA_Iliyan_Kostov_19621609\bin\Debug\Database1.mdf
+c:\users\local0\documents\visual studio 2012\Projects\KR2_WFA_Iliyan_Kostov_19621609\KR2_WFA_Iliyan_Kostov_19621609\bin\Debug\Database1_log.ldf
+c:\users\local0\documents\visual studio 2012\Projects\KR2_WFA_Iliyan_Kostov_19621609\KR2_WFA_Iliyan_Kostov_19621609\bin\Debug\KR2_WFA_Iliyan_Kostov_19621609.exe
+c:\users\local0\documents\visual studio 2012\Projects\KR2_WFA_Iliyan_Kostov_19621609\KR2_WFA_Iliyan_Kostov_19621609\bin\Debug\KR2_WFA_Iliyan_Kostov_19621609.pdb
+c:\users\local0\documents\visual studio 2012\Projects\KR2_WFA_Iliyan_Kostov_19621609\KR2_WFA_Iliyan_Kostov_19621609\obj\Debug\KR2_WFA_Iliyan_Kostov_19621609.csprojResolveAssemblyReference.cache
+c:\users\local0\documents\visual studio 2012\Projects\KR2_WFA_Iliyan_Kostov_19621609\KR2_WFA_Iliyan_Kostov_19621609\obj\Debug\KR2_WFA_Iliyan_Kostov_19621609.Form1.resources
+c:\users\local0\documents\visual studio 2012\Projects\KR2_WFA_Iliyan_Kostov_19621609\KR2_WFA_Iliyan_Kostov_19621609\obj\Debug\KR2_WFA_Iliyan_Kostov_19621609.Form2.resources
+c:\users\local0\documents\visual studio 2012\Projects\KR2_WFA_Iliyan_Kostov_19621609\KR2_WFA_Iliyan_Kostov_19621609\obj\Debug\KR2_WFA_Iliyan_Kostov_19621609.Form3.resources
+c:\users\local0\documents\visual studio 2012\Projects\KR2_WFA_Iliyan_Kostov_19621609\KR2_WFA_Iliyan_Kostov_19621609\obj\Debug\KR2_WFA_Iliyan_Kostov_19621609.Form4.resources
+c:\users\local0\documents\visual studio 2012\Projects\KR2_WFA_Iliyan_Kostov_19621609\KR2_WFA_Iliyan_Kostov_19621609\obj\Debug\KR2_WFA_Iliyan_Kostov_19621609.Properties.Resources.resources
+c:\users\local0\documents\visual studio 2012\Projects\KR2_WFA_Iliyan_Kostov_19621609\KR2_WFA_Iliyan_Kostov_19621609\obj\Debug\KR2_WFA_Iliyan_Kostov_19621609.csproj.GenerateResource.Cache
+c:\users\local0\documents\visual studio 2012\Projects\KR2_WFA_Iliyan_Kostov_19621609\KR2_WFA_Iliyan_Kostov_19621609\obj\Debug\KR2_WFA_Iliyan_Kostov_19621609.exe
+c:\users\local0\documents\visual studio 2012\Projects\KR2_WFA_Iliyan_Kostov_19621609\KR2_WFA_Iliyan_Kostov_19621609\obj\Debug\KR2_WFA_Iliyan_Kostov_19621609.pdb
+c:\users\local0\documents\visual studio 2012\Projects\KR2_WFA_Iliyan_Kostov_19621609\KR2_WFA_Iliyan_Kostov_19621609\obj\Debug\KR2_WFA_Iliyan_Kostov_19621609.Form5.resources
+c:\users\local0\documents\visual studio 2012\Projects\KR2_WFA_Iliyan_Kostov_19621609\KR2_WFA_Iliyan_Kostov_19621609\obj\Debug\KR2_WFA_Iliyan_Kostov_19621609.Form6.resources

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WFA_Calculator_19621609", "WFA_Calculator_19621609\WFA_Calculator_19621609.csproj", "{F95D9E53-792A-4BF0-9295-A94FFCD33432}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F95D9E53-792A-4BF0-9295-A94FFCD33432}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F95D9E53-792A-4BF0-9295-A94FFCD33432}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F95D9E53-792A-4BF0-9295-A94FFCD33432}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F95D9E53-792A-4BF0-9295-A94FFCD33432}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
